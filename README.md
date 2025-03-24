@@ -1,6 +1,6 @@
-<H3>Name :</H3> M.D.HARINI
-<H3>Register no. :</H3> 212222230043
-<H3>Date</H3> 
+<H3>Name : M.D.HARINI</H3>
+<H3>Register no. : 212222230043</H3>
+
 <H3>Experiment No. 2 </H3>
 
 ## Implementation of Perceptron for Binary Classification
