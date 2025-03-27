@@ -52,8 +52,8 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
  ```
-Developed By: Suji G
-Register Number: 212222230152
+Developed By: Harini M D
+Register Number: 212222230043
 ```
 ```
 import numpy as np                                                      
